@@ -23,6 +23,7 @@ Current influence anchors:
 - Lagos for density, public chaos, commerce, confidence, and infrastructure pressure
 - Accra for coastal warmth, social texture, humor, and neighborhood intimacy
 - Kinshasa for fashion bravado, performance energy, music culture, and visual boldness
+- Addis Ababa for bureaucratic theater, coffee ceremony culture, deadpan humor, highland formality colliding with street chaos, and the tizita emotional register underneath everything
 
 These influences are directional, not extractive. The city should feel inspired, not copied.
 
@@ -111,6 +112,7 @@ Common sound layers:
 - prayer, choir rehearsal, or amplified preaching in the distance
 - nearby music leaking from shops and compounds
 - metal tools, cooking oil, whistles, announcements, and laughter
+- coffee ceremony sounds: charcoal heat, pouring, small cups, quiet conversation happening in the middle of everything else
 
 When the blackout deepens, silence should feel wrong. Missing sound is part of the drama.
 
@@ -146,8 +148,11 @@ Public life runs through:
 - churches, prayer grounds, and rehearsal spaces
 - courtyards and compound entrances
 - radio call-in culture
+- coffee corners: small spaces where people sit, slow down, and share everything — the coffee ceremony is not decoration, it is how the city thinks out loud
 
 People watch, comment, roast, sympathize, speculate, and mobilize quickly.
+
+The coffee ceremony matters specifically because it is the one thing that resists urgency. In a city always in motion, sitting for three rounds of coffee is a social contract. It is where decisions get made, rumors get confirmed, and alliances get built. The blackout interrupting a ceremony in progress is a specific kind of violation.
 
 ## How the City Speaks
 
@@ -188,6 +193,7 @@ City fashion should combine:
 - jewelry and accessory storytelling
 - modern streetwear confidence
 - ceremonial echoes in everyday silhouettes
+- woven border detail used as personal and cultural signature — not costume, not decoration, but a specific design language that marks occasion, identity, and care
 
 ## Food Culture
 
@@ -471,6 +477,14 @@ Humor often takes the form of:
 - public commentary that spreads instantly
 - over-serious reactions to ridiculous events
 - elite language reused mockingly by ordinary people
+- bureaucratic deadpan: officials and clerks who treat the people waiting for them as an inconvenience, operating on their own logic with complete unbothered confidence, never explaining, never apologizing, fully convinced the inconvenience runs the other direction
+- the joke is never that authority is cruel — the joke is that authority is completely sincere about its own importance
+
+## Emotional Undertone
+
+Underneath the noise and comedy, Kintaba carries a tizita quality — a sense of depth and longing that is not sadness but is not pure lightness either. People here have memory. The city has survived things. The humor and warmth are not performed resilience. They are what people actually feel.
+
+This register should surface in quieter moments: a vendor who has kept the same stall for thirty years, a song playing from somewhere unseen, a ceremony that continues despite everything. The game earns its emotional peaks because this undertone is always present, never announced.
 
 ## Success Test
 
@@ -481,3 +495,4 @@ The city guide is working if Kintaba feels like:
 - a place where electricity changes emotional weather
 - a place where politics is public performance
 - a place worth saving because people already love living there
+- a place where happiness is the starting condition, not the reward
