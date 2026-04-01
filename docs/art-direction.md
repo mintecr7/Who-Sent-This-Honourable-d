@@ -182,6 +182,7 @@ The game's fashion language should draw from:
 - let accessories tell story
 - mix ceremonial confidence with street-level utility
 - make hair and headwear central to the shape language
+- woven border detail used as personal and cultural signature — not costume shorthand, but a specific design element that marks occasion, care, and identity when it appears
 
 ## Environment Direction
 
@@ -306,6 +307,7 @@ Important lighting ideas:
 - warm stall lighting around food and social spaces
 - harsh event lighting in propaganda environments
 - dramatic silhouette moments during outages
+- coffee corner light: small, warm, intimate — charcoal glow, ceramic cups, the specific quality of a space where time is moving differently than everywhere else around it
 
 The blackout should not make the game visually dead. Darkness should be sculpted.
 
@@ -349,6 +351,7 @@ Crowds should not feel like generic ambient loops. Their animation should commun
 - alarm
 - gossip
 - celebration
+- unbothered: people continuing their business with complete calm in the middle of chaos — not unaware, just operating on their own rhythm. This is one of the most culturally specific and visually funny states in the game. A woman adjusting her wrapper while a fight happens ten feet away. A man finishing his food while a political announcement blares overhead. The city does not perform distress for the player's benefit.
 
 The city is watching, not just idling.
 
