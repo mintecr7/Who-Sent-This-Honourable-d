@@ -94,12 +94,15 @@ The score should behave in three main modes:
 
 This is the music of movement, daily rhythm, traffic, errands, gossip, and public life.
 
+The default emotional register of this music is happiness. Not excitement, not tension — just the sound of people living their ordinary lives and finding it good. This matters because the blackout takes something that was already working. The City Pulse music before the crisis should feel like something worth protecting.
+
 Qualities:
 
 - groove-forward
 - warm
 - percussive
 - socially alive
+- content — not building toward anything, just present
 
 ### 2. District Identity
 
@@ -127,6 +130,7 @@ This is where the game reminds the player that joy existed before the blackout a
 - frying oil and utensils
 - foot traffic
 - occasional laughter that turns into gossip
+- coffee corner: charcoal, pouring, small cups, the quieter pocket of conversation that exists inside the market noise — the one place in the district where people are sitting still
 
 **Musical feel:**
 
@@ -379,7 +383,7 @@ Dialogue should feel:
 
 ### Performance Rules
 
-- deadpan is powerful
+- deadpan is powerful — specifically: bureaucratic characters should sound normal, even mildly put-upon. Not shouting, not cold, not robotic. Just a person who has decided that the situation is not their emergency. The clerk who arrived two hours late and looks at the waiting people with mild inconvenience should sound the way anyone sounds when they are slightly bothered by something that is, in their view, not their fault. That's the whole joke. The voice should never signal that it knows it's funny.
 - fake politeness should land clearly
 - crowd reactions should feel layered, not looped
 - sincerity matters most when the game gets quiet
