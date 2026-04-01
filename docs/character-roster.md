@@ -13,6 +13,7 @@ These characters are the current working canon for story, tone, silhouette, and 
 - Nobody should feel generic or imported from another game's archetype.
 - Comedy should emerge from personality, ego, confidence, and social behavior.
 - Even the funniest characters should still feel human.
+- Characters are defined by their lives, not their plot function. Every major character was in the middle of something before the blackout hit. That something matters.
 
 ## Protagonist
 
@@ -65,9 +66,17 @@ Tawa is the point-of-view character who links movement, fashion, neighborhood tr
 - reinforced shears for close-range finishers
 - modular outfit pieces that alter playstyle
 
+### Personal Stake
+
+Before the blackout, Tawa was in the middle of something. Not waiting for a purpose — actually living. A commission almost finished. A ceremony they were going to. A person they were supposed to meet. The blackout does not give Tawa a reason to care about the city. Tawa already cared. It interrupts something that was already good, and that specific interruption — not abstract injustice — is what gets Tawa moving.
+
+This matters because Tawa is not a hero looking for a cause. They are someone whose ordinary Tuesday was stolen.
+
 ### Emotional Arc
 
-Tawa begins the story annoyed but local. By the end, they become a visible symbol of collective refusal. Their growth is not about becoming a legend. It is about learning that style, skill, and anger mean more when shared.
+Tawa begins the story happy and interrupted. Not angry yet — just annoyed in the way you are when something that was working stops working. The anger comes later, when it becomes clear the interruption was not an accident.
+
+By the end, they become a visible symbol of collective refusal. Their growth is not about becoming a legend. It is about learning that style, skill, and anger mean more when shared.
 
 ## Core Crew
 
@@ -270,11 +279,14 @@ He should always be visually impressive and morally embarrassing at the same tim
 
 **Concept**
 
-Auntie Sewa runs one of the neighborhood's most trusted food spots. People come for the food, stay for the information, and leave with instructions whether they asked for them or not.
+Auntie Sewa runs one of the neighborhood's most trusted food spots. People come for the food, stay for the information, and leave with instructions whether they asked for them or not. She also runs a coffee corner — a small space beside the stall where three rounds of coffee happen every morning regardless of what is going on in the city. People sit. People talk. The coffee ceremony is not interrupted by emergencies. It is where people decide what to do about them.
+
+The blackout cuts her refrigeration, spoils stock she cannot afford to lose, and — more importantly — killed the charcoal burner mid-second round on the worst possible morning. That she is still here and still feeding people is a form of political statement she would deny making.
 
 ### Function
 
 - food-based healing and buffs
+- coffee ceremony as a slow-down interaction: sitting for a round unlocks information, trust, or lore that rushing past would miss
 - local memory and practical wisdom
 - side quests rooted in neighborhood needs
 
@@ -284,13 +296,15 @@ Auntie Sewa runs one of the neighborhood's most trusted food spots. People come 
 
 **Concept**
 
-Inspector Kole is not fully loyal to the Honourable, but he is trapped inside the bureaucracy that protects him. He can become obstacle, uneasy ally, or witness depending on how the story develops.
+Inspector Kole is not corrupt in the way Bemba Shine is corrupt. He is something harder to dramatize: a man who knows the system is wrong and has decided that is not his problem. He has a family. He has a pension. He has learned to perform loyalty without feeling it. The blackout bothers him — not politically, but personally. Something in the city he actually cares about is sitting in the dark.
+
+**Current story decision:** Kole functions best as an uneasy ally who enters the story as an obstacle and shifts when the personal cost of the blackout becomes real to him. He does not become a hero. He becomes someone who looks the other way at the right moment. That is enough and it is more honest than a redemption arc.
 
 ### Function
 
-- shows the machinery around corruption
-- adds moral complexity beyond simple good-versus-evil
-- supports missions involving checkpoints, permits, and public order theater
+- shows how corruption survives through routine compliance, not just active malice
+- gives the crew a way through official systems that does not require defeating them entirely
+- his shift should feel earned and small — one specific choice, not a conversion
 
 ## DJ Maraba
 

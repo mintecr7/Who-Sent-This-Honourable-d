@@ -173,6 +173,12 @@ The city remains present through:
 
 The player should feel watched, discussed, and remembered.
 
+### NPC Independence
+
+The city does not pause for the player. NPCs have places to be, people to argue with, and business that has nothing to do with the mission. A vendor is not standing still waiting to be interacted with — she is managing her stall, and the player needs to earn a moment of her attention. An official is not available just because the player arrives — he is doing something else and the player must navigate around his schedule, not the other way around.
+
+This is not obstacle design. This is how the city stays alive. The most memorable NPC interactions should feel like interrupting someone's actual day.
+
 ## Pillar 7: Boss Fights Are Public Spectacles
 
 Major encounters should feel like events, not just health bars.
@@ -254,6 +260,14 @@ Possible roles:
 - pre-boss preparation rituals
 
 Food systems should reinforce comfort, care, and cultural specificity.
+
+### The Coffee Ceremony as Mechanic
+
+The coffee ceremony is a specific interaction type: slow, social, multi-round, and resistant to urgency. When the player sits for coffee with a character, the game slows down. This is intentional.
+
+Three rounds happen. Each round can unlock something — information, trust, a memory, a side quest, a piece of lore — but only if the player stays. Leaving early is allowed. Leaving early means missing what the second or third round would have given.
+
+This mechanic exists because not everything in the city should move at the pace of a crisis. Some things require sitting. The coffee ceremony should feel like a genuine alternative rhythm to the action — not a tutorial, not a cutscene, but a choice to slow down that the game rewards honestly.
 
 ## Radio
 
@@ -340,6 +354,7 @@ Players should often feel:
 - "these people are alive and worth helping"
 - "I handled that with style"
 - "the city is changing because of what we did"
+- "these people were fine before I got here and they will be fine after"
 
 ## Scope Guardrails
 
