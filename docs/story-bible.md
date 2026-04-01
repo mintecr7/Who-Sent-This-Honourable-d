@@ -90,6 +90,7 @@ The humor should follow these rules:
 3. Roasting should feel affectionate when used within community.
 4. Public language should often sound overly formal in obviously absurd situations.
 5. When pain appears, the story should not dodge it with empty irony.
+6. Bureaucratic characters operate on their own internal logic with complete sincerity. The clerk who arrives two hours late, places her bag on the desk, looks at the waiting people with mild annoyance, and leaves for coffee is not cruel. She is simply operating correctly within her own understanding of the situation. The humor comes from her total confidence, not from mocking her. Nobody explains this. Nobody apologizes. Life continues.
 
 ## Cultural Guardrails
 
@@ -133,13 +134,17 @@ His evil is not mystery. His evil is shamelessness.
 
 ### Opening
 
-The city is preparing for its biggest night of celebration. Shops are busy, speakers are being tested, tailors are making last-minute fixes, roads are crowded, and everybody has an opinion about who is overdressed.
+The city is already alive before the festival starts. This is important. People are not happy because something special is coming — they are happy because this is Tuesday. The market is loud. Someone is winning an argument. Someone else is losing one and doesn't know it yet. A coffee ceremony has been going for forty minutes and nobody is leaving. A tailor is finishing something important while complaining about the person who ordered it. Children are somewhere they were told not to be.
+
+The festival is an expression of something that already exists every day. It makes the city louder, more dressed up, more itself. Everybody has an opinion about who is overdressed. Speakers are being tested. The night feels like it belongs to ordinary people, which is rare enough to deserve celebration.
 
 Then the blackout hits.
 
 At first, people assume it is temporary. Then rumors spread. Backup generators fail. Phones die. Sound systems cut out. Food begins to spoil. Weddings, rehearsals, and festival plans collapse. A public statement arrives full of excuses and polished lies.
 
 The neighborhood realizes this is not an accident.
+
+What the minister stole was not just electricity. He interrupted something that was already good.
 
 ### Middle
 
@@ -179,17 +184,18 @@ District stories must feel cumulative. Restoring one area should ripple into ano
 
 The emotional progression should move like this:
 
-1. excitement
-2. confusion
-3. annoyance
-4. outrage
-5. solidarity
-6. momentum
-7. public defiance
-8. cathartic humiliation of power
-9. celebration with emotional residue still visible
+1. happiness — ordinary, baseline, unremarkable
+2. excitement — the festival amplifies what already exists
+3. confusion — the lights go out
+4. annoyance — this again
+5. outrage — this was not an accident
+6. solidarity — if they will not fix it, we will
+7. momentum — the city starts to move
+8. public defiance — loud, stylish, collective
+9. cathartic humiliation of power
+10. celebration with emotional residue still visible
 
-The game should earn joy by taking disruption seriously.
+The game earns its joy by showing what was already there before it was taken.
 
 ## Gameplay-Narrative Alignment
 
@@ -212,6 +218,8 @@ The story works best when mechanics reinforce narrative meaning:
 - public announcements that sound polished but mean nothing
 - people dressing well in the middle of disorder
 - laughter breaking tension without erasing truth
+- the coffee ceremony: someone, somewhere, is still sitting for coffee — the city's refusal to be fully disrupted
+- the unbothered: characters who continue their business with complete calm in the middle of chaos, not because they are unaware, but because they have seen worse and the chaos does not belong to them
 
 ## Reference Feel
 
@@ -231,3 +239,9 @@ This story is working if players can say:
 - "The fashion matters."
 - "The minister is ridiculous in a way that feels painfully believable."
 - "The ending feels like justice and a party."
+
+### The Two Goals
+
+**For players who know this world:** They should feel at home without being able to name exactly where they are. Not because it copies a specific place, but because it carries the right feeling — the warmth, the humor, the unbothered confidence, the way a stranger becomes family inside one conversation. They should recognize it in their chest before they recognize it in their head.
+
+**For players who don't:** They should finish the game wanting to know more. Not because the game explained African culture to them, but because it made them hungry. The same way you finish a meal somewhere and immediately want to know what was in it.
