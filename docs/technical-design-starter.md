@@ -298,6 +298,29 @@ This allows:
 - dialogue starts
 - restoration terminals or boxes
 
+### Coffee Ceremony as a Multi-State Interaction
+
+The coffee ceremony is architecturally different from a single interaction event. It has multiple rounds, each of which can unlock something, and it requires the player to stay through multiple beats rather than triggering once and moving on.
+
+Even in prototype, this needs its own interaction shape:
+
+```text
+CoffeeCeremonyInteractable
+  Area2D
+  CollisionShape2D
+  RoundTracker        ← current round (0, 1, 2, 3)
+  DialogueTrigger     ← round-specific content
+  RewardEmitter       ← fires unlock signal per round
+```
+
+**Prototype behavior:**
+- Player enters range and starts the ceremony
+- Each round advances on player input
+- Leaving early stops progression — no penalty, but the remaining rounds do not fire
+- Round 3 completion emits a distinct signal the level can use for special unlocks
+
+The key design constraint: the ceremony should feel like it takes real time. Do not optimize it into a single pop-up.
+
 ## Restoration System Starter
 
 Restoration is a signature mechanic, so it should have its own clear structure early.
@@ -342,6 +365,60 @@ For the first playable, local level state can track:
 This state can live directly on the level script at first.
 
 When the pattern stabilizes, it can move into a reusable structure.
+
+## NPC State Starter
+
+The design requires NPCs to feel like they have their own agendas — they are not waiting for the player to interact with them. Even in prototype, this means NPCs need a minimal state system.
+
+**Prototype NPC states:**
+
+- `IDLE_ROUTINE` — doing their thing, ignoring the player
+- `AWARE` — player is nearby, NPC acknowledges but does not stop
+- `INTERACTING` — actively in dialogue or transaction with player
+- `UNBOTHERED` — chaos is happening nearby, NPC continues their routine regardless
+
+The `UNBOTHERED` state is not a bug or a placeholder. It is a deliberate animation and behavior state that should be built in from the start, not added later. An NPC eating their food while a fight happens ten feet away is a designed moment, not an oversight.
+
+**Recommended NPC scene:**
+
+```text
+NPC
+  CollisionShape2D
+  AnimatedSprite2D
+  DetectionArea2D     ← knows when player is nearby
+  DialogueTrigger     ← optional, only if this NPC has lines
+  StateController     ← manages IDLE / AWARE / INTERACTING / UNBOTHERED
+```
+
+Keep NPC logic local. NPCs should not need to query global state to decide whether to be unbothered.
+
+## Outfit System Starter
+
+Outfits are a core mechanic — they affect movement, combat, social access, and identity. They are not cosmetic. The system needs a starter even if the prototype only has one or two working outfits.
+
+**Prototype outfit structure:**
+
+```text
+OutfitResource (extends Resource)
+  id: String
+  display_name: String
+  sprite_frames: AnimatedSprite2D reference
+  movement_modifier: float     ← speed/jump multiplier
+  combat_modifier: float       ← damage/range modifier
+  social_tags: Array[String]   ← e.g. ["market", "official", "performance"]
+  special_ability: String      ← empty string if none in prototype
+```
+
+**OutfitManager** (can start as a lightweight node on the Player):
+
+- holds current equipped outfit
+- applies modifiers to movement and combat
+- emits `outfit_changed` signal so visuals and stats update cleanly
+- checks `social_tags` when entering restricted or unlockable areas
+
+**Prototype scope:** two outfits maximum — one default, one unlockable. Prove the swap works and modifiers apply before building more.
+
+The outfit system should never feel like a menu. Swapping should feel like a character choice, not an inventory action.
 
 ## Dialogue Starter
 
