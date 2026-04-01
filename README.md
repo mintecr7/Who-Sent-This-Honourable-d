@@ -146,7 +146,7 @@ This project aims to build:
 
 ## Current Status
 
-`Pre-production`
+`Pre-production / bootstrap setup`
 
 The current focus is:
 
@@ -155,7 +155,7 @@ The current focus is:
 - character direction
 - visual identity
 - gameplay pillars
-- technical foundation planning
+- technical foundation setup
 
 ## Tech Stack
 
@@ -194,13 +194,38 @@ Planned gameplay elements:
 
 ## Repository Structure
 
-Planned structure:
+Current structure:
 
 - `docs/` - worldbuilding, story, art direction, references
 - `game/` - Godot project files
 - `audio/` - music and sound work
 - `concept/` - character sheets, environment art, moodboards
 - `scripts/` - external tooling if needed
+
+## Development Setup
+
+Current bootstrap:
+
+- `Godot 4` project scaffold in `game/`
+- typed `GDScript` starter scene in `game/scenes/main.tscn`
+- editor defaults in `.editorconfig`
+- Godot cache/export files ignored in `.gitignore`
+
+To run once `Godot 4` is installed:
+
+1. Open the `game/` folder as a project in Godot.
+2. Run the main scene at `res://scenes/main.tscn`.
+3. Use the bootstrap scene as the starting point for the first playable prototype.
+
+## Pre-Production Docs
+
+- `docs/story-bible.md`
+- `docs/character-roster.md`
+- `docs/world-city-guide.md`
+- `docs/art-direction.md`
+- `docs/audio-direction.md`
+- `docs/gameplay-pillars.md`
+- `docs/production-roadmap.md`
 
 ## Creative Guardrails
 
